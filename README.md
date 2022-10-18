@@ -12,6 +12,7 @@ disponíveis para desenvolvimento nativo
 ## Aplicativos Udacity
 |![US Political Preparedness](https://github.com/Malfaa/PoliticalPreparedness)|![Location Reminder](https://github.com/Malfaa/KotlinNanoDegree_LocationReminder)|![Asteroid Radar](https://github.com/Malfaa/KotlinNanoDegree_AsteroidRadar)|![Loading Status](https://github.com/Malfaa/KotlinNanoDegree_LoadingStatus)|
 |:---:|:---:|:---:|:---:|
+||<img src="https://github.com/Malfaa/KotlinNanoDegree_LocationReminder/blob/main/location_reminder.gif" width=18% height=18%>|
 
 |![Shoe Store](https://github.com/Malfaa/KotlinNanoDegree_ShoeStore)|
 |:---:|
