@@ -7,16 +7,18 @@ disponíveis para desenvolvimento nativo
 
 |![Transporte Público SP](https://github.com/Malfaa/TransportePublicoSP)|![Firebase-Chat](https://github.com/Malfaa/Firebase-Chat)|![Nota Rápida](https://github.com/Malfaa/Nota_Rapida)|
 |:---:|:---:|:---:|
-|<img src="https://github.com/Malfaa/TransportePublicoSP/blob/main/screenshots/sptransrecord.gif" width=20% height=20%>|<img src="https://github.com/Malfaa/Firebase-Chat/blob/main/gitImages/contatos.png" width=50% height=50%>|<img src="https://github.com/Malfaa/Nota_Rapida/blob/main/gitImages/main_adc.png" width=50% height=50%>|
+|<img src="https://github.com/Malfaa/TransportePublicoSP/blob/main/screenshots/sptransrecord.gif" width=250px height=350px>|<img src="https://github.com/Malfaa/Firebase-Chat/blob/main/gitImages/contatos.png" width=250px height=350px>|<img src="https://github.com/Malfaa/Nota_Rapida/blob/main/gitImages/main_adc.png" width=250px height=350px>|
 
 ## Aplicativos Udacity
-|![US Political Preparedness](https://github.com/Malfaa/PoliticalPreparedness)|![Location Reminder](https://github.com/Malfaa/KotlinNanoDegree_LocationReminder)|![Asteroid Radar](https://github.com/Malfaa/KotlinNanoDegree_AsteroidRadar)|![Loading Status](https://github.com/Malfaa/KotlinNanoDegree_LoadingStatus)|
-|:---:|:---:|:---:|:---:|
-||<img src="https://github.com/Malfaa/KotlinNanoDegree_LocationReminder/blob/main/location_reminder.gif" width=18% height=18%>|
+|![US Political Preparedness](https://github.com/Malfaa/PoliticalPreparedness)|![Location Reminder](https://github.com/Malfaa/KotlinNanoDegree_LocationReminder)|![Asteroid Radar](https://github.com/Malfaa/KotlinNanoDegree_AsteroidRadar)|
+|:---:|:---:|:---:|
+|<img src="https://github.com/Malfaa/PoliticalPreparedness/blob/main/poliprep.gif" width=200px height=300px>|<img src="https://github.com/Malfaa/KotlinNanoDegree_LocationReminder/blob/main/location_reminder.gif" width=200px height=300px>|<img src="https://github.com/Malfaa/KotlinNanoDegree_AsteroidRadar/blob/main/asteroid.gif" width=200px height=300px>
 
-|![Shoe Store](https://github.com/Malfaa/KotlinNanoDegree_ShoeStore)|
-|:---:|
-|<img src="https://github.com/Malfaa/KotlinNanoDegree_ShoeStore/blob/main/shoe_store.gif" width=10% height=10%>|
+
+
+|![Loading Status](https://github.com/Malfaa/KotlinNanoDegree_LoadingStatus)|![Shoe Store](https://github.com/Malfaa/KotlinNanoDegree_ShoeStore)|
+|:---:|:---:|
+|<img src="https://github.com/Malfaa/KotlinNanoDegree_LoadingStatus/blob/main/loadapp.gif" width=200px height=300px>|<img src="https://github.com/Malfaa/KotlinNanoDegree_ShoeStore/blob/main/shoe_store.gif" width=200px height=300px>|
 
 ### Contato:
 - LinkedIn: https://www.linkedin.com/in/gustavo-m-correa-15a282248/
