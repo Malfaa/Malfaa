@@ -1,7 +1,7 @@
 ## Olá!
 
-Me chamo Gustavo. Eu sou desenvolvedor Kotlin(Native Android). Procuro sempre estar atualizado e me aperfeiçoar com as ferramentas
-disponíveis para desenvolvimento nativo 
+Me chamo Gustavo. Eu sou desenvolvedor Kotlin(Native Android). Procuro sempre estar atualizado e me aperfeiçoando com as ferramentas
+disponíveis de desenvolvimento.
 
 ## Aplicativos
 
