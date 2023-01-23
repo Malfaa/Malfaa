@@ -3,6 +3,10 @@
 Me chamo Gustavo. Eu sou desenvolvedor Kotlin(Native Android). Procuro sempre estar atualizado e me aperfeiçoando com as ferramentas
 disponíveis de desenvolvimento.
 
+## Play Store App
+
+https://play.google.com/store/apps/details?id=com.malfaa.recorde_me_remedio
+
 ## Aplicativos
 
 |![Transporte Público SP](https://github.com/Malfaa/TransportePublicoSP)|![Firebase-Chat](https://github.com/Malfaa/Firebase-Chat)|![Nota Rápida](https://github.com/Malfaa/Nota_Rapida)|
