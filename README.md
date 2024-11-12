@@ -1,6 +1,6 @@
 ## Olá!
 
-Me chamo Gustavo. Sou estudante de Engenharia de Software, procuro me especializar em desenvolvimento Mobile ou Web. Tenho conhecimento em Kotlin(Native Android) e HTML/CSS/JS. Procuro sempre estar me atualizando com novas ferramentas e aprimorando com as já existentes!
+Me chamo Gustavo. Sou estudante de Engenharia de Software, procuro me especializar em desenvolvimento Mobile ou Web e assim realizar meu sonho de conseguir uma carreira na área da tecnologia! Tenho conhecimento em Kotlin(Native Android) e HTML/CSS/JS. Procuro sempre estar me atualizando com novas ferramentas e aprimorando com as já existentes!
 
 ## Play Store App
 
