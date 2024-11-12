@@ -1,7 +1,6 @@
 ## Olá!
 
-Me chamo Gustavo. Eu sou desenvolvedor Kotlin(Native Android). Procuro sempre estar atualizado e me aperfeiçoando com as ferramentas
-disponíveis de desenvolvimento.
+Me chamo Gustavo. Sou estudante de Engenharia de Software, procuro me especializar em desenvolvimento Mobile ou Web. Tenho conhecimento em Kotlin(Native Android) e HTML/CSS/JS. Procuro sempre estar me atualizando com novas ferramentas e aprimorando com as já existentes!
 
 ## Play Store App
 
