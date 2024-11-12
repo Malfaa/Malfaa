@@ -7,7 +7,13 @@ disponíveis de desenvolvimento.
 
 https://play.google.com/store/apps/details?id=com.malfaa.recorde_me_remedio
 
-## Aplicativos
+## Projetos WEB: 
+
+|![Portfolio Online](https://github.com/Malfaa/AT.Gustavo_Malfa_Correa-DR1)|
+|:---:|
+|<img src = "https://github.com/Malfaa/AT.Gustavo_Malfa_Correa-DR1/blob/main/portfolio_online.jpg" width=550px height=300px>|
+
+## Aplicativos Mobile:
 
 |![Transporte Público SP](https://github.com/Malfaa/TransportePublicoSP)|![Firebase-Chat](https://github.com/Malfaa/Firebase-Chat)|![Nota Rápida](https://github.com/Malfaa/Nota_Rapida)|
 |:---:|:---:|:---:|
