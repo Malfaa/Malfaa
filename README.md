@@ -1,10 +1,32 @@
 ## Olá!
 
-Me chamo Gustavo. Sou estudante de Engenharia de Software, procuro me especializar em desenvolvimento Mobile ou Web e assim realizar meu sonho de conseguir uma carreira na área da tecnologia! Tenho conhecimento em Kotlin(Native Android) e HTML/CSS/JS. Procuro sempre estar me atualizando com novas ferramentas e aprimorando com as já existentes!
+Me chamo Gustavo, estudante de Engenharia de Software com foco em desenvolvimento back-end e arquiteturas escaláveis.
+
+Atualmente, meu principal objetivo é aprofundar meus conhecimentos em Java e Spring Boot, construindo APIs robustas e performáticas.
+
+Sou apaixonado por resolver problemas e aplicar minhas habilidades para construir soluções que fazem a diferença. Estou sempre em busca de novos desafios e oportunidades para colaborar!
+## Java / Spring Boot
+| Plataforma de Mentoria e Desenvolvimento Pessoal | Plataforma de Prescrição Digital Integrada (Soon)
+| :---: | :---: |
+|<img > | <img >|
+|[Mentoria e Desenvolvimento -> Back-End](https://github.com/Malfaa/PMDP) | [PharmaD]()|
+
+## Entregas: Teste de Performance e Assessments
+### __Instituto Infnet__	
+| Serviços Web e Testes - Java | .NET e Bases de Dados | Banco de Dados | Desenvolvimento com C# | 
+| :---: | :---: | :---: | :---: |
+| [TP1](https://github.com/Malfaa/25E2_3-TP1)  | [TP1](https://github.com/Malfaa/25E2_4-TP1) | [TP1](https://github.com/Malfaa/25E3_2-TP1)  | [TP1](https://github.com/Malfaa/25E1_2-TP1) |
+| [TP2](https://github.com/Malfaa/25E2_3-TP2)  | [TP2](https://github.com/Malfaa/25E2_4-TP2)  | [TP2](https://github.com/Malfaa/25E3_2-TP2)  | [TP2](https://github.com/Malfaa/25E1_2-TP2) |
+| [TP3](https://github.com/Malfaa/25E2_3-TP3)  | [TP3](https://github.com/Malfaa/25E2_4-TP3)  | [TP3](https://github.com/Malfaa/25E3_2-TP3)  | [TP3](https://github.com/Malfaa/25E1_2-TP3) |
+| [AT](https://github.com/Malfaa/25E2_3-AT)  | [AT](https://github.com/Malfaa/25E2_4-AT)  | [AT](https://github.com/Malfaa/25E3_2-AT)  | [AT](https://github.com/Malfaa/25E1_2-AT)
 
 ## Play Store App
 
 https://play.google.com/store/apps/details?id=com.malfaa.recorde_me_remedio
+
+> [!NOTE]  
+> O aplicativo foi removido da Play Store, caso haja interesse me contactar para saber a respeito!
+
 
 ## Projetos WEB: 
 
