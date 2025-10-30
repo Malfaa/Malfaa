@@ -11,6 +11,12 @@ Sou apaixonado por resolver problemas e aplicar minhas habilidades para construi
 |<img > | <img >|
 |[Mentoria e Desenvolvimento -> Back-End](https://github.com/Malfaa/PMDP) | [PharmaD]()|
 
+## Kotlin
+| DIO - Lab 1 | 
+| :---: | 
+|<img > |
+|[Gerenciamento Escolar - CMD](https://github.com/Malfaa/aprenda-kotlin-com-exemplos-lab) |
+
 ## Entregas: Teste de Performance e Assessments
 ### __Instituto Infnet__	
 | Serviços Web e Testes - Java | .NET e Bases de Dados | Banco de Dados | Desenvolvimento com C# | 
